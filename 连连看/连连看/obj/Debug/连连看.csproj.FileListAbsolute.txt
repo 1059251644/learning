@@ -1,0 +1,10 @@
+C:\Users\10592\source\repos\连连看\连连看\bin\Debug\连连看.exe.config
+C:\Users\10592\source\repos\连连看\连连看\bin\Debug\连连看.exe
+C:\Users\10592\source\repos\连连看\连连看\bin\Debug\连连看.pdb
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.Form1.resources
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.cache
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.csproj.CoreCompileInputs.cache
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.exe
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.pdb
+C:\Users\10592\source\repos\连连看\连连看\obj\Debug\连连看.csprojAssemblyReference.cache
