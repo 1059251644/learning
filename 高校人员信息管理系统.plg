@@ -1,0 +1,128 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 高校人员信息管理系统 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\10592\AppData\Local\Temp\RSP1B2F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/高校人员信息管理系统.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp"
+]
+Creating command line "cl.exe @C:\Users\10592\AppData\Local\Temp\RSP1B2F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+高校人员信息管理系统.cpp
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(41) : error C2146: syntax error : missing ';' before identifier 'tea'
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(41) : error C2501: 'tea_teacher' : missing storage-class or type specifiers
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(41) : error C2501: 'tea' : missing storage-class or type specifiers
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(71) : error C2065: 'tea' : undeclared identifier
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(71) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(71) : error C2228: left of '.id' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(84) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(84) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(84) : error C2106: '=' : left operand must be l-value
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(131) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(131) : error C2228: left of '.id' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(141) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(141) : error C2228: left of '.id' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(145) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(145) : error C2228: left of '.name' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(152) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(152) : error C2228: left of '.sex' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(153) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(153) : error C2228: left of '.sex' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(157) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(157) : error C2228: left of '.age' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(171) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(171) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(179) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(179) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(180) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(180) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(184) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(184) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(192) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(192) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(201) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(201) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(202) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(202) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(203) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(203) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(207) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(207) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(215) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(215) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(225) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(225) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(226) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(226) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(227) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(227) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(228) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(228) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(232) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(232) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(240) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(240) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(248) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(248) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(249) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(249) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(253) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(253) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(261) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(261) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(269) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(269) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(270) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(270) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(274) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(274) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(282) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(282) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(290) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(290) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(291) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(291) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(295) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(295) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(303) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(303) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(305) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(305) : error C2228: left of '.specialty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(310) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(310) : error C2228: left of '.duty' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(323) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(323) : error C2228: left of '.output' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(356) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(356) : error C2228: left of '.sex' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(373) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(373) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(386) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(386) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(399) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(399) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(412) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(412) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(425) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(425) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(438) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(438) : error C2228: left of '.dept' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(456) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(456) : error C2228: left of '.sex' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(498) : error C2109: subscript requires array or pointer type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(498) : error C2228: left of '.name' must have class/struct/union type
+D:\D\vc++6.0\Common\MSDev98\Bin\高校人员信息管理系统.cpp(498) : fatal error C1003: error count exceeds 100; stopping compilation
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+高校人员信息管理系统.obj - 102 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
