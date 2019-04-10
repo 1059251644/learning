@@ -1,0 +1,9 @@
+C:\Users\10592\source\repos\计数器\计数器\bin\Debug\计数器.exe.config
+C:\Users\10592\source\repos\计数器\计数器\bin\Debug\计数器.exe
+C:\Users\10592\source\repos\计数器\计数器\bin\Debug\计数器.pdb
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.Form1.resources
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.Properties.Resources.resources
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.csproj.GenerateResource.cache
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.csproj.CoreCompileInputs.cache
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.exe
+C:\Users\10592\source\repos\计数器\计数器\obj\Debug\计数器.pdb
